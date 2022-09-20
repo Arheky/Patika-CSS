@@ -1,0 +1,16 @@
+.text-title {
+    font-size: 20px;
+    color: red;
+}
+
+body{
+	line-height: 1.5;
+	font-family: 'Poppins', sans-serif;
+	background: #F9F5EB;
+}
+.text-center{
+    text-align: center;
+}
+.list-position{
+    list-style-position: inside
+}
